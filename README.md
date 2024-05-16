@@ -1,5 +1,5 @@
 # hello-world
-new 20:30
+new 20:58 /t1
 my first repository
 
 
