@@ -1,5 +1,5 @@
 # hello-world
-new
+new 20:30
 my first repository
 
 
